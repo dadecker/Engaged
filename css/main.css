@@ -64,3 +64,15 @@
     height: 50vh;
   }
 }
+
+.header_logo {
+	width: 100%;
+	max-width: 65px !important;
+	max-height: 65px !important;
+}
+
+.big_logo {
+	width: 100%;
+	max-width: 300px !important;
+	max-height: 300px !important;
+}
